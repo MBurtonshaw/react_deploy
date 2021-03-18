@@ -2,7 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mburtonshaw.github.io/react_deploy",
+  "homepage": "https://mburtonshaw.github.io/react_deploy",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
